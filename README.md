@@ -1,1 +1,1 @@
-# https://meal-finder-xi-five.vercel.app/
+# [Meal-Finder] (https://generate-password-js.netlify.app/)
