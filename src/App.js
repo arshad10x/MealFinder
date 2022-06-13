@@ -86,7 +86,7 @@ const handleSubmit = (event) => {
     <div className="Container">
       <div className="Header">
         <div className="AppNameComponent">
-          <img className="AppIcon" alt="img" src="hamburger.svg"/> 
+          <img className="AppIcon" alt="img" src="hamburger.svg" /> 
           <h2>Meal Finder</h2> 
         </div>
         <SearchBar isLoading={isLoading}
