@@ -34,7 +34,7 @@ const SearchBar = ({ handleSubmit, query, isLoading, setQuery }) => {
   return (
     <form onSubmit={handleSubmit}>
       <div className="SearchComponent">
-        <img className="SearchIcon" alt="Search" src="search-icon.svg" />
+        <img className="SearchIcon" alt="Search" src="search-icon.svg"/>
         <input
           value={query}
           className="SearchInput"
