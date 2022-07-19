@@ -4,7 +4,7 @@ import './App.css';
 import SearchBar from './components/SearchBar';
 import RecipeContainer from './components/RecipeContainer';
 
-const searchApi = "https://api.spoonacular.com/recipes/complexSearch";
+const searchApi = "https://www.themealdb.com/api/json/v1/1/search.php?s=";
 
 function App() {
   const [isLoading, setIsLoading] = useState(false);
