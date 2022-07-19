@@ -2,7 +2,7 @@
 
 ## Description
 
--The Meal Finder App offers step-by-step instructions on how to make Pizza or Cake with ingredients quantity.
+- The Meal Finder App offers step-by-step instructions on how to make Pizza or Cake with ingredients quantity.
 - A Meal Finder App that displays some recipes on one page and Search bar provided where you can enter any recipe and see its ingredients and instructions also provide step-by-step instruction and variety of foods.
 
 ## Link
