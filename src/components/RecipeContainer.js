@@ -8,7 +8,7 @@ return (
 <img src={strMealThumb} alt={strMeal} className="CoverImage"/>
 <span className= "category"> {strCategory} </ span>
 <h3> {strMeal} </h3>
-<a href={"https://api.spoonacular.com/recipes/complexSearch" + idMeal}> Ingredients</a>
+<a href={"https://www.themealdb.com/meal/" + idMeal}> Ingredients</a>
 </div>
 </div>
 )
